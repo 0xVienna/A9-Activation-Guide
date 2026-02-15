@@ -15,8 +15,16 @@ An easy to follow guide which achieves official activation status and an untethe
 - turdus_merula
 - Legacy iOS Kit
 - A stable internet connection
-- 4 Activation Tickets and 1 Hacktivation Key in MobileGestalt.plist
+- 4 Activation Tickets from iOS 10+: [4 tickets](https://www.reddit.com/r/LegacyJailbreak/wiki/guides/a9ios9activation/#wiki_saving_activation_tickets)
+- 1 Hacktivation Key in MobileGestalt.plist: [iPh0ne4s](https://www.reddit.com/r/setupapp/comments/1jviq3i/guide_manually_jailbreaking_ios_92933_unactivated/)
 - Mac with AirDrop; iOS 9 is super restrictive while it is deactivated, therefore we will need to use AirDrop to send the activation files
 
-## Why is iOS 9.2-9.3.3 only supported?
+## Steps
+### still work in progress**
+
+## Frequently asked questions
+### Why is iOS 9.2-9.3.3 only supported?
 This is because iOS 9 in deactivated state does not allow us to sideload apps or even install apps from websites like jailbreaks.app/. Hence, we will need to use jbme.ddw.nu as a temporary jailbreak to place the activation files, set permissions and user access.
+
+### Why do I need to restore to iOS 10.3.3+ first to obtain activation tickets?
+Only iOS 10+ can be officially activated. Once you have jailbroken and have the 4 tickets uploaded and saved in a folder, you can keep it for older iOS activation.
