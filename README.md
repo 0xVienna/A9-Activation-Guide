@@ -9,6 +9,7 @@ If you are already on iOS 10+, just jailbreak it so that you can obtain the 4 ac
 - Gives you the real iOS 9 experience on your A9 devices
 - Allows a full untethered jailbreak
 - Setup.app will not be bypassed and you will be able to complete it as if the device is activated
+- SIM Card works with data and signal
 
 ## Prerequisites
 - An A9 device: iPhone SE, iPhone 6s/6s Plus, iPad 5th Generation
