@@ -41,3 +41,10 @@ This is because iOS 9 in deactivated state does not allow us to sideload apps or
 
 ### Why do I need to restore to iOS 10.3.3+ first to obtain activation tickets?
 Only iOS 10+ can be officially activated. Once you have jailbroken and have the 4 tickets uploaded and saved in a folder, you can keep it for older iOS activation. I have also tested iOS 10.3.3 activation tickets and they work well on iOS 9.
+
+## Masks
+Item	                  Path	             Owner	Group	Mask
+activation_record	/var/root/Library/Lockdown	root	wheel	0644
+data_ark.plist	same as above	root	wheel	0644
+ic-info.sisv	/var/mobile/Library/FairPlay	mobile	mobile	0644
+commcenter plist	/var/wireless/Library/Preferences	root	wheel	0644
