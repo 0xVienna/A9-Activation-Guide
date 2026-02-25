@@ -50,3 +50,4 @@ Only iOS 10+ can be officially activated. Once you have jailbroken and have the 
 | data_ark.plist      | /var/root/Library/Lockdown                   | root   | wheel  | 0644 |
 | ic-info.sisv        | /var/mobile/Library/FairPlay                 | mobile | mobile | 0644 |
 | commcenter plist    | /var/wireless/Library/Preferences            | root   | wheel  | 0644 |
+| Folders/directories    | N/A                           | root   | wheel  | 0755 |
