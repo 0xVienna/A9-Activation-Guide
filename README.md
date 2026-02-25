@@ -4,6 +4,11 @@ An easy to follow guide which achieves official activation status and an untethe
 You will need to restore 1 or 2 times, so make sure you backup your data to cloud or storage before trying this.
 If you are already on iOS 10+, just jailbreak it so that you can obtain the 4 activation tickets, else you will need to use iTunes or turdus_merula if you want to restore to iOS 10 and later so that you can obtain the tickets and restore back to 9.2-9.3.3.
 
+## Supported/tested iOS versions
+- iOS 9.2-9.3.3 working
+- iOS 9.0-9.1 not working (for now)
+- iPhone 6s full-fledged tested and working on 9.2 and 9.3.3
+
 ## Benefits (why you should try this method)
 - App Store works (by installing iTunesStoreFix in Ca1 repo)
 - Gives you the real iOS 9 experience on your A9 devices
